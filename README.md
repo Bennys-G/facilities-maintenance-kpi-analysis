@@ -61,19 +61,23 @@ facilities-maintenance-kpi-analysis/
 
 ### Órdenes de trabajo por categoría
 
-![Órdenes por categoría](assets/work_orders_by_category.png)
+<img width="1280" height="800" alt="work_orders_by_category" src="https://github.com/user-attachments/assets/1323146f-3959-479a-9e99-7a21877ae22c" />
+
 
 ### Cumplimiento SLA por prioridad
 
-![SLA por prioridad](assets/sla_by_priority.png)
+<img width="1280" height="800" alt="sla_by_priority" src="https://github.com/user-attachments/assets/128580ee-a5c4-4b60-9db5-b78fc77a1458" />
+
 
 ### Costo mensual de mantenimiento
 
-![Costo mensual](assets/monthly_cost.png)
+<img width="1280" height="800" alt="monthly_cost" src="https://github.com/user-attachments/assets/b6365e58-3aec-471d-a1bc-12e1db121a2d" />
+
 
 ### Horas de paro por área
+<img width="1280" height="800" alt="downtime_by_site" src="https://github.com/user-attachments/assets/e215bb3c-cef9-4997-8430-56ad73753454" />
 
-![Horas de paro por área](assets/downtime_by_site.png)
+
 
 ## Hallazgos principales
 
